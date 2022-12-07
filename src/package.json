@@ -1,0 +1,15 @@
+{
+    "name": "sam-swagger-api",
+    "version": "1.0.0",
+    "description": "",
+    "license": "MIT",
+    "scripts": {
+      
+    },
+    "dependencies": {
+      
+    },
+    "devDependencies": {
+      "aws-sdk": "^2.267.1"
+    }
+  }
